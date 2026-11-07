@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/trendmicro.deepsec/commit/81535aac15c9aedd2a3faa99b8b9fb992897f75a",
       "git:hexsha": "81535aac15c9aedd2a3faa99b8b9fb992897f75a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T15:33:55.786280+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/trendmicro.deepsec/commit/8a0e0c40708333497ccde45f49940be76a0eb475",
